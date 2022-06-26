@@ -1,4 +1,4 @@
-# TicTacTie
+# TicTacToe
 A tictactoe game made by me
 
 
